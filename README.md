@@ -6,11 +6,11 @@ Javascript & Cloud Specialist
 
 Engineer - FullStack Developer - Mentor
 
-* 🌍  I'm based in London, UK 🇬🇧 completing my Masters from Uni of Hertfordshire.
-* 🖥️  See my portfolio at [JSalaat.me](http://jsalaat.me/)
-*  ✉️  You can connect on [Linkedin](https://www.linkedin.com/in/jsalaat/) or contact me via [mail](mailto:mjunaidsalaat@gmail.com)
-* 🧠  I'm constantly learning, currently targetting AWS and prepping for its associate certifications
-* 🤝  I'm open to collaborating on React / Node.js (Express, Nest) / Java
+* 🌍  I'm based in London, UK 🇬🇧 completed my Masters here from University of Hertfordshire.
+* 🖥️  See my portfolio at [JSalaat.com](http://jsalaat.com/)
+* ✉️  You can connect on [Linkedin](https://www.linkedin.com/in/jsalaat/) or contact me via [mail](mailto:mjunaidsalaat@gmail.com)
+* 🧠  I'm constantly learning, currently building AI systems @sosafe-experience-squads and targetting AWS and prepping for its associate certifications
+* 🤝  I'm open to collaborating on AI systems, React / Node.js (Express, Nest)
 * ⚡   Open to network and building communities, trainer and practicing public speaking.
 
 <a href="https://www.github.com/jsalaat" target="_blank" rel="noreferrer"><img
